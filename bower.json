@@ -1,0 +1,25 @@
+{
+  "name": "Mrs_Doubtfire_Ipsum",
+  "homepage": "https://github.com/RussellRiesJr/Mrs_Doubtfire_Ipsum",
+  "authors": [
+    "Russell Ries <riesru@gmail.com>"
+  ],
+  "description": "Lorem Ipsum generator using Mrs. Doubtfire quotes",
+  "main": "",
+  "keywords": [
+    "Lorem",
+    "Ipsum",
+    "Mrs.",
+    "Doubtfire",
+    "Robin",
+    "Williams"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
